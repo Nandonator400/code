@@ -22,4 +22,3 @@ def clean_dict_values(data):
 def reader_func(file):
     data = reader_aux(file)
     return clean_dict_values(data)
-
